@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_french_epic_narrative_colonial_aftermath",
+  "title": "The River's Ledger",
+  "tagline": "In a colony built on rubber and lies, one judge must weigh the price of truth against the cost of silence.",
+  "target_words": 70000,
+  "actual_words": 69476,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Enlightenment Ideals",
+    "The Bureaucracy of Brutality",
+    "Grief as a Catalyst for Justice",
+    "The Physical and Moral Rot of Empire"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone Foot",
+      "words": 2895
+    },
+    {
+      "ch": 2,
+      "title": "The Widow's Demand",
+      "words": 2895
+    },
+    {
+      "ch": 3,
+      "title": "The Mission Morgue",
+      "words": 2895
+    },
+    {
+      "ch": 4,
+      "title": "The Cost Per Kilo",
+      "words": 2895
+    },
+    {
+      "ch": 5,
+      "title": "The Plantation Ledger",
+      "words": 2895
+    },
+    {
+      "ch": 6,
+      "title": "The Uncooperative God",
+      "words": 2895
+    },
+    {
+      "ch": 7,
+      "title": "The Garrison Commander",
+      "words": 2895
+    },
+    {
+      "ch": 8,
+      "title": "The Silent Village",
+      "words": 2895
+    },
+    {
+      "ch": 9,
+      "title": "The Boardroom in Paris",
+      "words": 2895
+    },
+    {
+      "ch": 10,
+      "title": "The Photographs",
+      "words": 2895
+    },
+    {
+      "ch": 11,
+      "title": "The Priest's Testimony",
+      "words": 2895
+    },
+    {
+      "ch": 12,
+      "title": "The Fishing Net Knot",
+      "words": 2895
+    },
+    {
+      "ch": 13,
+      "title": "The Declared Inquest",
+      "words": 2895
+    },
+    {
+      "ch": 14,
+      "title": "The First Witness Vanishes",
+      "words": 2895
+    },
+    {
+      "ch": 15,
+      "title": "The Fire at the Shed",
+      "words": 2895
+    },
+    {
+      "ch": 16,
+      "title": "The Code Napoléon, Revised",
+      "words": 2895
+    },
+    {
+      "ch": 17,
+      "title": "The River's Tribute",
+      "words": 2895
+    },
+    {
+      "ch": 18,
+      "title": "The Choice of Exile",
+      "words": 2895
+    },
+    {
+      "ch": 19,
+      "title": "The Smiling Head Resurfaces",
+      "words": 2895
+    },
+    {
+      "ch": 20,
+      "title": "The Widow's Gambit",
+      "words": 2895
+    },
+    {
+      "ch": 21,
+      "title": "The General's Letter",
+      "words": 2895
+    },
+    {
+      "ch": 22,
+      "title": "The Last Crate",
+      "words": 2895
+    },
+    {
+      "ch": 23,
+      "title": "The Truth in the Ledger",
+      "words": 2895
+    },
+    {
+      "ch": 24,
+      "title": "The Unfinished Treaty",
+      "words": 2896
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Sergeant Bao, navigating loyalty between the colonial judge and his own people.",
+      "Create a 'found document'—a letter from Claude Valois to his brother in the Chamber of Deputies, written before his death.",
+      "Draft a scene where Élise Valois confronts the Parisian board members of the Société des Caoutchoucs.",
+      "Write a folktale emerging from the local village about the 'stone god' and the river, reflecting the colonial conflict."
+    ],
+    "technical": [
+      "Build an interactive map of the colony showing the rubber plantations, the river, the estate, and the mission, annotating key events.",
+      "Create a 'ledger generator' that produces faux-colonial accounting documents showing the 'cost per kilo' of rubber, with hidden fields revealing the human toll."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Joseph Conrad",
+      "Marguerite Duras",
+      "Franz Fanon",
+      "Albert Camus"
+    ]
+  },
+  "cover_prompt": "A weary French colonial judge in a sweat-stained linen suit stands at a rain-lashed veranda railing, his back to a grand but decaying plantation house, holding a single, mud-stained rubber plantation ledger as he stares out at a storm over the jungle, the scene framed by wilting orchids and a rusted scales of justice figurine on the balustrade, in the atmospheric style of Joseph Mallord William Turner's sublime landscapes and Lucian Freud's unflinching figurative realism, book cover framing, centered and intimate portrait composition with a low, dramatic angle looking up at the judge against the turbulent sky, chiaroscuro lighting with a sickly, oppressive color palette of colonial yellow, mold green, and monsoon grey, slashed through with the deep crimson of fresh rubber sap, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
