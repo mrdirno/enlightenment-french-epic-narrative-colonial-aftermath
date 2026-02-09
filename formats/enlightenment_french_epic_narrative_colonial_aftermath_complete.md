@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The ink on the Treaty of Pondicherry was not yet dry when the first crate arrived at Léon’s estate. Inside, nestled in French oak shavings, was a stone foot, severed at the ankle. The attached note, in the hand of the Governor-General, read: “A curiosity for your collection. The rest of the god appears to be… uncooperative.”
@@ -154,6 +156,8 @@ As they neared the bank, Léon saw it. Another stone head, this one larger, caug
 He stepped onto the muddy bank, his shoes sinking. He looked from the furious stone face to the peaceful cross above. Between the old gods and the new, he thought, we build our morgues. And there, in the cool, dark room behind the chapel, Claude Valois was waiting to tell him a story in the only language the dead have left: the silent, stubborn truth of their wounds.
 
 ---
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -324,6 +328,8 @@ But Léon did not go to bed. He sat by the lamp, the fan stirring the incriminat
 Tomorrow, at 0900, the current would have a name. And Léon would have to decide whether to swim with it, or against it.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
